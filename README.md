@@ -1,5 +1,9 @@
 # AWS-3-tier-architecture-on-aws-using-terraform
 
+## Architecture Diagram
+
+![Architecture Diagram](Images/3tier-architecture.png)
+
 ## Project Summary
 I built a **3-tier architecture on AWS using Terraform** to understand real-world DevOps and cloud infrastructure automation.
 
