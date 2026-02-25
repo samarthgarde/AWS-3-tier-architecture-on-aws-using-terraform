@@ -3,7 +3,7 @@
 ## Architecture Diagram
 
 <p align="center">
-  <img src="Images/3tier-architecture.png" width="800">
+  <img src="Images/3tier-architecture.png" width="400">
 </p>
 
 ## Project Summary
